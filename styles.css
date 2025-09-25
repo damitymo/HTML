@@ -14,7 +14,7 @@
     font-size: 50px;
 }
 .contenedor-de-secciones{
-    background-color: deeppink;
+    background-color: rgb(20, 94, 255);
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
